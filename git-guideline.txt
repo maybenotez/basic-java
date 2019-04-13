@@ -1,0 +1,7 @@
+git add
+
+git  commit 提交
+
+git push  提交到远程仓库
+
+git operate
