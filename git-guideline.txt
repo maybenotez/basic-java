@@ -20,10 +20,13 @@ git checkout -b dev  ==  git branch dev  git checkout dev
 
 合并某分支到当前分支：git merge <name>
 
-git branch -d <name> dfsdfsfewer
 
+      git merge --no-ff -m
 
-绿地集团地方 儿童
+git stash 
+
+git status	  
+
 
 
 
