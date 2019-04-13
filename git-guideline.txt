@@ -7,4 +7,9 @@ git push  提交到远程仓库
 git 一般修改提交操作   git -am “log”
 
 
-git checkout -b dev  ==  git branch dev  git checkout dev
+git checkout -b dev  ==  git branch dev  git checkout de
+
+
+
+
+git stash   用来保存临时文件 然后切出去 继续使用   
