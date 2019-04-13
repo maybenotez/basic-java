@@ -28,6 +28,7 @@ git stash
 
 git status	  
 
+git branch -D <name>  强行删除未合并的分支
 
 我们一般情况下呢 是master分支上创建类似于dev这样新的分支  然后发布的时候呢 将分支合并到master上面  发布
 所以 我们需要在 master分支上 merge dev  操作如下    git  merge  dev  
