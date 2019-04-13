@@ -29,7 +29,12 @@ git stash
 git status	  
 
 
-
+我们一般情况下呢 是master分支上创建类似于dev这样新的分支  然后发布的时候呢 将分支合并到master上面  发布
+所以 我们需要在 master分支上 merge dev  操作如下    git  merge  dev  
 
 git stash   用来保存临时文件 然后切出去 继续使用   
+
+测试是否能够使用
+
+
 
