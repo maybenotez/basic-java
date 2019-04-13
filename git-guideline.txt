@@ -5,3 +5,6 @@ git  commit 提交本地仓库
 git push  提交到远程仓库
 
 git 一般修改提交操作   git -am “log”
+
+
+git checkout -b dev  ==  git branch dev  git checkout dev
