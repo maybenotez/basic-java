@@ -25,3 +25,9 @@ Spring 加载任何实现了该接口的 bean 的配置时，都会在 bean 工�
 
 
 BeanPostProcessor 
+=================================
+关于spring的问题，现在可以带着问题看源码了
+1：spring如何加载扫描bean，加载元数据？
+2：spring factoryBean如何让bean加载？
+3：bean的处理器
+4：
